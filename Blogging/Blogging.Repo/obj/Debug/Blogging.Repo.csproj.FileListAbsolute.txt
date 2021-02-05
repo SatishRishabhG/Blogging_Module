@@ -1,0 +1,6 @@
+D:\Blogging\Blogging\Blogging.Repo\bin\Debug\Blogging.Repo.dll
+D:\Blogging\Blogging\Blogging.Repo\bin\Debug\Blogging.Repo.pdb
+D:\Blogging\Blogging\Blogging.Repo\obj\Debug\Blogging.Repo.dll
+D:\Blogging\Blogging\Blogging.Repo\obj\Debug\Blogging.Repo.pdb
+D:\Blogging\Blogging\Blogging.Repo\obj\Debug\Blogging.Repo.csprojAssemblyReference.cache
+D:\Blogging\Blogging\Blogging.Repo\bin\Debug\Blogging.Repo.dll.config

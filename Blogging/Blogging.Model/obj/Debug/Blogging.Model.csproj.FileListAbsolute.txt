@@ -1,0 +1,5 @@
+D:\Blogging\Blogging\Blogging.Model\bin\Debug\Blogging.Model.dll
+D:\Blogging\Blogging\Blogging.Model\bin\Debug\Blogging.Model.pdb
+D:\Blogging\Blogging\Blogging.Model\obj\Debug\Blogging.Model.csprojAssemblyReference.cache
+D:\Blogging\Blogging\Blogging.Model\obj\Debug\Blogging.Model.dll
+D:\Blogging\Blogging\Blogging.Model\obj\Debug\Blogging.Model.pdb

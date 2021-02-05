@@ -1,0 +1,9 @@
+D:\Blogging\Blogging\Blogging.Service\bin\Debug\Blogging.Service.dll
+D:\Blogging\Blogging\Blogging.Service\bin\Debug\Blogging.Service.pdb
+D:\Blogging\Blogging\Blogging.Service\bin\Debug\Blogging.Repo.dll
+D:\Blogging\Blogging\Blogging.Service\bin\Debug\Blogging.Repo.pdb
+D:\Blogging\Blogging\Blogging.Service\obj\Debug\Blogging.Service.csprojAssemblyReference.cache
+D:\Blogging\Blogging\Blogging.Service\obj\Debug\Blogging.Service.csproj.CopyComplete
+D:\Blogging\Blogging\Blogging.Service\obj\Debug\Blogging.Service.dll
+D:\Blogging\Blogging\Blogging.Service\obj\Debug\Blogging.Service.pdb
+D:\Blogging\Blogging\Blogging.Service\bin\Debug\Blogging.Repo.dll.config
